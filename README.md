@@ -53,7 +53,7 @@ $ gcloud app browse
 ```
 
 
-### Locoust Load testing instructions.
+### Locust Load testing instructions.
 
 #### Install Locoust load testthrough cli
 
