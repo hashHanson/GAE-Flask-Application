@@ -62,7 +62,7 @@ sudo python3 -m pip install locustio
 ```
 ![9](pictures/9.png)
 
-#### Run Locoust load test
+#### Run Locust load test
 ```
 $ locust
 ```
